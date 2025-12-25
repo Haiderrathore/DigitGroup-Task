@@ -1,0 +1,15 @@
+{
+  "id": "patient_001",
+  "firstName": "Haider",
+  "lastName": "Rathore",
+  "dateOfBirth": "1993-06-15T00:00:00Z",
+  "gender": "Male",
+  "bloodGroup": "B+",
+  "height": 174,
+  "weight": 88,
+  "allergies": [
+    "Pollan",
+    "Peanuts"
+  ],
+  "profileImageUrl": null
+}

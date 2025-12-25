@@ -1,0 +1,186 @@
+[
+  {
+    "id": "v1",
+    "patientId": "patient_001",
+    "type": "heartRate",
+    "value": 72,
+    "unit": "bpm",
+    "status": "normal",
+    "recordedAt": "2024-12-24T08:30:00Z"
+  },
+  {
+    "id": "v2",
+    "patientId": "patient_001",
+    "type": "bloodPressure",
+    "value": 145,
+    "secondaryValue": 92,
+    "unit": "mmHg",
+    "status": "warning",
+    "recordedAt": "2024-12-24T08:30:00Z"
+  },
+  {
+    "id": "v3",
+    "patientId": "patient_001",
+    "type": "bloodOxygen",
+    "value": 98,
+    "unit": "%",
+    "status": "normal",
+    "recordedAt": "2024-12-24T08:30:00Z"
+  },
+  {
+    "id": "v4",
+    "patientId": "patient_001",
+    "type": "temperature",
+    "value": 36.8,
+    "unit": "°C",
+    "status": "normal",
+    "recordedAt": "2024-12-24T08:30:00Z"
+  },
+  {
+    "id": "v5",
+    "patientId": "patient_001",
+    "type": "respiratoryRate",
+    "value": 16,
+    "unit": "breaths/min",
+    "status": "normal",
+    "recordedAt": "2024-12-24T08:30:00Z"
+  },
+  {
+    "id": "v6",
+    "patientId": "patient_001",
+    "type": "heartRate",
+    "value": 88,
+    "unit": "bpm",
+    "status": "warning",
+    "recordedAt": "2024-12-23T09:15:00Z"
+  },
+  {
+    "id": "v7",
+    "patientId": "patient_001",
+    "type": "bloodPressure",
+    "value": 128,
+    "secondaryValue": 82,
+    "unit": "mmHg",
+    "status": "normal",
+    "recordedAt": "2024-12-23T09:15:00Z"
+  },
+  {
+    "id": "v8",
+    "patientId": "patient_001",
+    "type": "bloodOxygen",
+    "value": 97,
+    "unit": "%",
+    "status": "normal",
+    "recordedAt": "2024-12-23T09:15:00Z"
+  },
+  {
+    "id": "v9",
+    "patientId": "patient_001",
+    "type": "temperature",
+    "value": 37.4,
+    "unit": "°C",
+    "status": "warning",
+    "recordedAt": "2024-12-23T09:15:00Z"
+  },
+  {
+    "id": "v10",
+    "patientId": "patient_001",
+    "type": "respiratoryRate",
+    "value": 18,
+    "unit": "breaths/min",
+    "status": "normal",
+    "recordedAt": "2024-12-23T09:15:00Z"
+  },
+  {
+    "id": "v11",
+    "patientId": "patient_001",
+    "type": "heartRate",
+    "value": 115,
+    "unit": "bpm",
+    "status": "critical",
+    "recordedAt": "2024-12-22T10:00:00Z"
+  },
+  {
+    "id": "v12",
+    "patientId": "patient_001",
+    "type": "bloodPressure",
+    "value": 165,
+    "secondaryValue": 105,
+    "unit": "mmHg",
+    "status": "critical",
+    "recordedAt": "2024-12-22T10:00:00Z"
+  },
+  {
+    "id": "v13",
+    "patientId": "patient_001",
+    "type": "bloodOxygen",
+    "value": 94,
+    "unit": "%",
+    "status": "warning",
+    "recordedAt": "2024-12-22T10:00:00Z"
+  },
+  {
+    "id": "v14",
+    "patientId": "patient_001",
+    "type": "temperature",
+    "value": 38.2,
+    "unit": "°C",
+    "status": "critical",
+    "recordedAt": "2024-12-22T10:00:00Z"
+  },
+  {
+    "id": "v15",
+    "patientId": "patient_001",
+    "type": "respiratoryRate",
+    "value": 24,
+    "unit": "breaths/min",
+    "status": "warning",
+    "recordedAt": "2024-12-22T10:00:00Z"
+  },
+  {
+    "id": "v16",
+    "patientId": "patient_001",
+    "type": "heartRate",
+    "value": 75,
+    "unit": "bpm",
+    "status": "normal",
+    "recordedAt": "2024-12-21T11:30:00Z"
+  },
+  {
+    "id": "v17",
+    "patientId": "patient_001",
+    "type": "bloodPressure",
+    "value": 122,
+    "secondaryValue": 78,
+    "unit": "mmHg",
+    "status": "normal",
+    "recordedAt": "2024-12-21T11:30:00Z"
+  },
+  {
+    "id": "v18",
+    "patientId": "patient_001",
+    "type": "bloodOxygen",
+    "value": 99,
+    "unit": "%",
+    "status": "normal",
+    "recordedAt": "2024-12-21T11:30:00Z"
+  },
+  {
+    "id": "v19",
+    "patientId": "patient_001",
+    "type": "temperature",
+    "value": 36.6,
+    "unit": "°C",
+    "status": "normal",
+    "recordedAt": "2024-12-21T11:30:00Z"
+  },
+  {
+    "id": "v20",
+    "patientId": "patient_001",
+    "type": "respiratoryRate",
+    "value": 14,
+    "unit": "breaths/min",
+    "status": "normal",
+    "recordedAt": "2024-12-21T11:30:00Z"
+  }
+]
